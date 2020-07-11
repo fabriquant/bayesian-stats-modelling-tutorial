@@ -4,6 +4,8 @@
 
 How to do Bayesian statistical modelling using numpy and PyMC3.
 
+View video of event here :  https://www.youtube.com/watch?v=2wvt6GPZl1U
+
 # for conference tutorial attendees
 
 If you're looking for the material for a specific conference tutorial, navigate to the notebooks directory and look for a subdirectory for the conference you're interested. For example, `notebooks/ODSC-East-2020-04-14` contains the material for [Hugo's ODSC East tutorial on April 14, 2020](https://odsc.com/speakers/bayesian-data-science-probabilistic-programming/).
